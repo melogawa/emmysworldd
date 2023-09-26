@@ -7,11 +7,11 @@ Emersen Kim Hoang, a little half blood baby born on November 5th, 2006. She's Ko
 <p>
 <h2>Secrets!  </h2>
 <ol>
-<li>She can't swim! 
-<li>She uses a robotic arm in tennis competitions to win 
-<li>She's a dragon boat racing demon however she unfortunately crashed the boat while steering recently
-<li>She's currently balding because of her british roots
-<li>She's also a pathological liar (don't believe the things she posts) 
+<li>She can't swim! </li>
+<li>She uses a robotic arm in tennis competitions to win </li>
+<li>She's a dragon boat racing demon however she unfortunately crashed the boat while steering recently</li>
+<li>She's currently balding because of her british roots</li>
+<li>She's also a pathological liar (don't believe the things she posts) </li>
 </ol>
 </p>
 
