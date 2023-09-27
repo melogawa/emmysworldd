@@ -14,6 +14,6 @@ Emersen Kim Hoang, a little half blood baby born on November 5th, 2006. She's Ko
 </ol>
   
 <a href="https://spotify.link/WwPPUw1ypDb">Bonus! Emmy/Melia collab on spotify *click here* </a>
+
+<img src= "IMG_4315.HEIC" alt = "Emmy in the wild" width= "140" height = "290"><img src= "IMG_8487.HEIC" "Emmy in the wild part 2" width= "160" height= "270"</a>
 </body>
-<a herf= "https://github.com/melogawa/emmysworldd/blob/main/IMG_4315.HEIC"> Emmy in the wild</a>
-<a href= "https://github.com/melogawa/emmysworldd/blob/main/IMG_8487.HEIC"> Emmy in the wild part 2</a>
